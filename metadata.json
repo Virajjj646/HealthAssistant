@@ -1,0 +1,8 @@
+{
+  "name": "ElderHealth AI Assistant",
+  "description": "A compassionate AI assistant for senior citizens to simplify medical jargon, detect health misinformation, and understand medications.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
